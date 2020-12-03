@@ -2,7 +2,7 @@
 name: Жалобы и предложения
 about: Используйте этот шаблон, чтобы предложить добавить какую-то новую фичу или изменить существующие
 title: ""
-labels: 'enchancement'
+labels: 'enhancement'
 assignees: ''
 
 ---
