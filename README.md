@@ -1,2 +1,2 @@
 # Dreamfinity-Tracker
-Баг-трекер для проекта Dreamfinity
+Трекер заявок и обращений для проекта Dreamfinity
