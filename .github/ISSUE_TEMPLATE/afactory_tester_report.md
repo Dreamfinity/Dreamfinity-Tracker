@@ -1,6 +1,6 @@
 ---
 name: Отчёт о неисправности Arcanefactory
-about: Баги, краши, и любое непреднамеренное поведение.
+about: Баги, краши, и любое непреднамеренное поведение на сервере Arcanefactory
 title: ""
 labels: 'afactory_bug'
 assignees: 
